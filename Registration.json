@@ -1,0 +1,19 @@
+{
+  "Registration": [
+    {
+      "name": "Numa ",
+      "email": "numa@gmail.com",
+      "phone": "9497213151",
+      "password": "numa@1",
+      "id": 1
+    },
+    {
+      "name": "aboo",
+      "email": "abu@gmail.com",
+      "password": "12345678a",
+      "id": 7
+    }
+  ],
+  "cart": [],
+  "Order":[]
+}
